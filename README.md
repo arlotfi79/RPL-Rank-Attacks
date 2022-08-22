@@ -1,5 +1,5 @@
 # RPL-Rank-Attacks
-In this repository, we have used the Cooja simulator which is part of the [Contiki OS](https://github.com/contiki-os/contiki) to implement of a number of rank attacks on RPL.
+In this repository, we have used the Cooja simulator which is part of the [Contiki OS](https://github.com/contiki-os/contiki) to implement a number of rank attacks on RPL. RPL is the major protocol which is being used in IoT devices.
 
 ## What to change
 In order to implement the attacks in Cooja, some changes should be applied to the source codes. These changes are stated below for each attack:
